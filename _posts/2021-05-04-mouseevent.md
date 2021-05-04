@@ -1,7 +1,7 @@
 ---
 layout:post
 title: moving box
-
+---
 
 <html lang="en">
 <head>
